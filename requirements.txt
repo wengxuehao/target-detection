@@ -28,7 +28,7 @@ django-redis==3.8.3
 django-rediscache==1.0.5
 django-rest-framework==0.1.0
 django-simpleui==2.1.5
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 dlib==19.7.0
 drf-haystack==1.8.5
 entrypoints==0.3
