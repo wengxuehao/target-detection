@@ -70,7 +70,7 @@ Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 kiwisolver==1.0.1
 kombu==4.2.1
-Mako==1.0.13
+Mako==1.2.2
 Markdown==3.0.1
 MarkupSafe==1.1.1
 matplotlib==2.2.2
